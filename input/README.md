@@ -17,7 +17,7 @@ This directory contains all the input data required to run the `*.py` and `*.ipy
 
 * `OberseeConstance`: Shape of Lake Constance Obersee. Source: own work.
 
-* `mcmc_output_summary.xlsx`: 
+* `mcmc_output.xlsx`: Output data from `mcmc.py` used as input for `Figures.ipynb`.
 
 
 [^1]: Graven, H., Allison, C. E., Etheridge, D. M., Hammer, S., Keeling, R. F., Levin, I., Meijer, H. A. J., Rubino, M., Tans, P. P., Trudinger, C. M., Vaughn, B. H., & White, J. W. C. (2017). Compiled records of carbon isotopes in atmospheric CO2 for historical simulations in CMIP6. _Geoscientific Model Development, 10_(12), 4405–4417. https://doi.org/10.5194/gmd-10-4405-2017
