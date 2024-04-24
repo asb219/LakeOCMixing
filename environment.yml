@@ -1,0 +1,19 @@
+name: sedmix
+dependencies:
+    - python=3.11
+    - pymc=5.12
+    - arviz
+    - corner
+    - matplotlib
+    - seaborn
+    - numba # for jit compilation
+    - numpy
+    - pandas
+    - openpyxl # read and write .xlsx files
+    - netcdf4
+    - rasterio
+    - geopandas
+    - shapely
+    - scipy
+    - pykrige=1.7
+    - jupyter
