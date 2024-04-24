@@ -1,4 +1,4 @@
-# RICH-sediments
+# LakeOCMixing
 
 Isotopic Bayesian mixing model for organic carbon in lake sediments.
 Case study: Lake Constance Obersee.
@@ -41,11 +41,11 @@ _Limnology and Oceanography_.
 
 Clone this repository with
 ```
-git clone https://github.com/asb219/RICH-sediments.git
+git clone https://github.com/asb219/LakeOCMixing.git
 ```
 
-Now the repository should be in a directory named `RICH-sediments`.
-Move into that directory with `cd RICH-sediments`.
+Now the repository should be in a directory named `LakeOCMixing`.
+Move into that directory with `cd LakeOCMixing`.
 
 ### Create the virtual environment with conda
 
@@ -70,6 +70,6 @@ All the resulting data files and figures will be written inside the `output` dir
 ## Issues
 
 If you encounter a bug or other issues, please raise an issue
-at https://github.com/asb219/RICH-sediments/issues.
+at https://github.com/asb219/LakeOCMixing/issues.
 
 Feel free to fork this repository and implement your own changes and features.
