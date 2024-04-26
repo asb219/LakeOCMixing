@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org/badge/791430933.svg)](https://zenodo.org/badge/latestdoi/791430933)
-
 # LakeOCMixing
+
+[![DOI](https://zenodo.org/badge/791430933.svg)](https://zenodo.org/badge/latestdoi/791430933)
 
 Isotopic Bayesian mixing model for organic carbon in lake sediments.
 Case study: Lake Constance Obersee.
