@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/791430933.svg)](https://zenodo.org/badge/latestdoi/791430933)
+
 # LakeOCMixing
 
 Isotopic Bayesian mixing model for organic carbon in lake sediments.
@@ -38,6 +40,8 @@ _Limnology and Oceanography_.
 ## Getting started
 
 ### Clone the repository
+
+_Skip this step if you downloaded from [Zenodo](https://zenodo.org/badge/latestdoi/791430933)._
 
 Clone this repository with
 ```
